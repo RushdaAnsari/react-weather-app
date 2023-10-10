@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-weather-app/static/css/main.77ae3ed7.css",
-    "main.js": "/react-weather-app/static/js/main.0ca3bfbb.js",
+    "main.css": "/react-weather-app/static/css/main.605e55dc.css",
+    "main.js": "/react-weather-app/static/js/main.4028c959.js",
     "static/js/787.d9312eb8.chunk.js": "/react-weather-app/static/js/787.d9312eb8.chunk.js",
     "static/media/windy.jpg": "/react-weather-app/static/media/windy.bab7be0e8e68b634d365.jpg",
     "static/media/thunder.jpg": "/react-weather-app/static/media/thunder.4bdeced7fb4279b359b8.jpg",
@@ -13,14 +13,16 @@
     "static/media/hail.jpg": "/react-weather-app/static/media/hail.1898d7305ba41558b70b.jpg",
     "static/media/cloudy.jpg": "/react-weather-app/static/media/cloudy.1c482af9534dabeb6e60.jpg",
     "static/media/haze.jpeg": "/react-weather-app/static/media/haze.53ba788f27183416910b.jpeg",
+    "static/media/nightsky.jpg": "/react-weather-app/static/media/nightsky.b4dab42126b6de7bf4d4.jpg",
+    "static/media/header-img.svg": "/react-weather-app/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/tornado.jpg": "/react-weather-app/static/media/tornado.ae31eddd6f68d4dd3771.jpg",
     "index.html": "/react-weather-app/index.html",
-    "main.77ae3ed7.css.map": "/react-weather-app/static/css/main.77ae3ed7.css.map",
-    "main.0ca3bfbb.js.map": "/react-weather-app/static/js/main.0ca3bfbb.js.map",
+    "main.605e55dc.css.map": "/react-weather-app/static/css/main.605e55dc.css.map",
+    "main.4028c959.js.map": "/react-weather-app/static/js/main.4028c959.js.map",
     "787.d9312eb8.chunk.js.map": "/react-weather-app/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77ae3ed7.css",
-    "static/js/main.0ca3bfbb.js"
+    "static/css/main.605e55dc.css",
+    "static/js/main.4028c959.js"
   ]
 }
